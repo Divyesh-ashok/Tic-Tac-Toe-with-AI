@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-with-AI
+# Tic-Tac-Toe-with-Computer
 A computerized XO game using C Programming.
